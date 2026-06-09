@@ -38,3 +38,12 @@ Temps de traitement : Scanner une galerie de 15 000 photos prend du temps. Laiss
 Ce projet est une expérimentation technique et éducative. Il n'est en aucun cas un outil professionnel d'investigation ou d'application de la loi. Les résultats de correspondances (matchs) fournis par l'intelligence artificielle embarquée sont indicatifs et sujets à une forte marge d'erreur.
 
 En utilisant cette application, vous vous engagez à respecter les lois de votre pays concernant la vie privée et l'utilisation de données biométriques.
+
+### Screenshots
+![Screenshot 7](./images/screen7.spot_me.jpg)
+![Screenshot 1](./images/screen1.spot_me.jpg)
+![Screenshot 2](./images/screen2.spot_me.jpg)
+![Screenshot 3](./images/screen3.spot_me.jpg)
+![Screenshot 4](./images/screen4.spot_me.jpg)
+![Screenshot 5](./images/screen5.spot_me.jpg)
+![Screenshot 6](./images/screen6.spot_me.jpg)
