@@ -79,8 +79,6 @@ By using this code, you agree to comply with your country's laws regarding priva
 
 ---
 
-**License:** MIT
-
 # Screenshots
 ![Screenshot 7](./images/screen7.spot_me.jpg)
 ![Screenshot 1](./images/screen1.spot_me.jpg)
